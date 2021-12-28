@@ -120,7 +120,8 @@ p {
       
     }
         .side_bare{
-            position: relative;
+            position: inherit;
+           
         }
         
         .Main_image{
